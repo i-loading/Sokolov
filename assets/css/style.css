@@ -128,6 +128,10 @@ h6 {
   padding: 20px 52px;
 }
 
+.active {
+  border-bottom: 3px solid #fe504f;
+}
+
 .section_text {
   text-align: center;
 }
@@ -147,7 +151,7 @@ h6 {
 }
 
 .index-header {
-  background: url(/assets/img/index/bg-one.jpg) no-repeat center top/cover;
+  background: url(../img/index/bg-one.jpg) no-repeat center top/cover;
 }
 
 .index-header nav {
@@ -265,7 +269,7 @@ h6 {
 }
 
 .contact-small {
-  background: url(/assets/img/index/bg-two.jpg) no-repeat top center/cover;
+  background: url(../img/index/bg-two.jpg) no-repeat top center/cover;
   padding: 105px 35px 95px 35px;
   text-align: center;
   margin-bottom: 75px;
@@ -614,7 +618,7 @@ h6 {
 
 .contact-big {
   padding: 90px 0 50px 0;
-  background: url(/assets/img/index/bg-four.jpg) no-repeat center top/cover;
+  background: url(../img/index/bg-four.jpg) no-repeat center top/cover;
 }
 
 .contact-big .contact-wrapper {
@@ -776,7 +780,7 @@ h6 {
 /* News page */
 
 .news-page_header {
-  background: url(/assets/img/news/bg-one.jpg) no-repeat center top;
+  background: url(../img/news/bg-one.jpg) no-repeat center top;
   background-size: 100% auto;
 }
 
@@ -860,7 +864,7 @@ h6 {
 /* News page */
 
 .post-page_header {
-  background: url(/assets/img/post/post-bg.jpg) no-repeat center top;
+  background: url(../img/post/post-bg.jpg) no-repeat center top;
   background-size: 100% auto;
 }
 
